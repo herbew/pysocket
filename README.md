@@ -1,5 +1,8 @@
 # pysocket
 python socket
+
+https://github.com/settings/tokens
+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
 -------------------------------------------------------------------------------
 1. APP SERVER SOCKET
 -------------------------------------------------------------------------------
